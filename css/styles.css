@@ -10119,7 +10119,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/images/free.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url("../assets/images/free.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
